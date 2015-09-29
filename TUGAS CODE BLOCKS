@@ -9,7 +9,7 @@
  printf(" Dari Bentuk Persamaan Ax^2 + Bx + C = 0\n");
  printf("\n");
  printf(" Nama	: PRIYO BUDI UTOMO \n");
- printf(" NIM	  : D400150166  \n");
+ printf(" NIM	 : D400150166  \n");
  printf(" Kelas	: E  \n");
  printf("\n");
  printf("   Masukan Nilai Koefisien A = ");scanf("%f",&a);
